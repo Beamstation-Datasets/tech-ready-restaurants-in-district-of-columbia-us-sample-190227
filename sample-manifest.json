@@ -1,0 +1,12 @@
+{
+  "export_job_id": "447b0f82-8526-402d-bbf3-25e749cb14cf",
+  "id_short": 190227,
+  "published_at": "2026-04-10T19:29:21Z",
+  "repo_name": "tech-ready-restaurants-in-district-of-columbia-us-sample-190227",
+  "sample_asset_name": "beamstation_190227_restaurants-us-dc_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/190227/beamstation_190227_restaurants-us-dc_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "7401570445c2fa24d28cc38549c8d6bf6cb02c1d67c6a160122681c37a132a68",
+  "sample_size_bytes": 20480,
+  "total_records": 5
+}
