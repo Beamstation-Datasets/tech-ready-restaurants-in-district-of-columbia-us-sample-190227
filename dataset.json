@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in District of Columbia, US",
+  "export_job_id": "447b0f82-8526-402d-bbf3-25e749cb14cf",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 190227,
+  "location_name": "District of Columbia",
+  "location_type": "state",
+  "repo_name": "tech-ready-restaurants-in-district-of-columbia-us-sample-190227",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/190227/beamstation_190227_restaurants-us-dc_SAMPLE_DIST.csv",
+  "sample_pct": 20.0,
+  "sample_records": 1,
+  "sample_sha256": "7401570445c2fa24d28cc38549c8d6bf6cb02c1d67c6a160122681c37a132a68",
+  "sample_size_bytes": 20480,
+  "total_records": 5,
+  "updated_at": "2026-04-08T04:20:45.799276+00:00"
+}
